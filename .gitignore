@@ -1,0 +1,9 @@
+# Private config (credentials, owner SteamID) - see config.example.json #
+config.json
+config-totp.json
+
+# Saved login session / Steam machine data #
+data/
+
+# Node Modules #
+node_modules/

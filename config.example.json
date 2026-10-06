@@ -1,0 +1,14 @@
+{
+    "username": "your_steam_login",
+    "password": "your_steam_password",
+    "shared_secret": "",
+    "identity_secret": "",
+    "owner": "STEAMID64_OF_YOUR_MAIN_ACCOUNT",
+    "prefix": "/",
+    "games": [440, 570],
+    "autoAcceptFriends": true,
+    "trades": {
+        "autoAcceptFromOwner": true,
+        "declineOthers": false
+    }
+}

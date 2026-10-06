@@ -1,0 +1,25 @@
+{
+  "name": "steam-bot",
+  "version": "3.0.0",
+  "description": "A simple steam idle bot.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "Steam",
+    "Idle",
+    "Bot"
+  ],
+  "author": "michelms02",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "steam-totp": "^2.1.2",
+    "steam-tradeoffer-manager": "^2.12.0",
+    "steam-user": "^5.2.0",
+    "steamcommunity": "^3.48.0"
+  }
+}
