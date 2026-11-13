@@ -1,4 +1,4 @@
-# Steam Bot v3.0
+# Steam Bot
 
 Idles games and responds to commands sent over Steam chat from your main account.
 
